@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="C:\Jexzyyy\img\tenor.gif"  />
+  <img height="200" src="img\tenor.gif"  />
 </div>
 
 ###
